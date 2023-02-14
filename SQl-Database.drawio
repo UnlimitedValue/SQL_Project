@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T09:27:38.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wVuRvbg6v-6oBJg5l2yJ" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T15:13:23.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="W5XyvMZ3Zo84scpLgfCA" version="20.8.20" type="github">
   <diagram name="Page-1" id="bSQR74FSkpMxP9UVAu7b">
     <mxGraphModel dx="1195" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -11,16 +11,16 @@
           <mxGeometry x="210" y="190" width="660" height="310" as="geometry" />
         </mxCell>
         <mxCell id="pPYnVoVjCFT4KM67zYJJ-1" value="Subscription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="160" width="75.21" height="30" as="geometry" />
+          <mxGeometry x="195.5" y="154" width="75.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pPYnVoVjCFT4KM67zYJJ-2" value="Resource-group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="272.27" y="203" width="92.5" height="30" as="geometry" />
+          <mxGeometry x="262.27" y="203" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pPYnVoVjCFT4KM67zYJJ-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="231.02" y="200" width="41.25" height="33" as="geometry" />
+          <mxGeometry x="221.02" y="200" width="41.25" height="33" as="geometry" />
         </mxCell>
         <mxCell id="pPYnVoVjCFT4KM67zYJJ-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="221.36" y="150" width="24.79" height="40" as="geometry" />
+          <mxGeometry x="169.36" y="144" width="24.79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pPYnVoVjCFT4KM67zYJJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.892;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pPYnVoVjCFT4KM67zYJJ-12" target="pPYnVoVjCFT4KM67zYJJ-15">
           <mxGeometry relative="1" as="geometry">
@@ -61,25 +61,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pPYnVoVjCFT4KM67zYJJ-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="329" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="323" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pPYnVoVjCFT4KM67zYJJ-31" value="Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="753.75" y="344.5" width="92.5" height="30" as="geometry" />
+          <mxGeometry x="753.75" y="338.5" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPYnVoVjCFT4KM67zYJJ-34" value="DB Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="350" width="92.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pPYnVoVjCFT4KM67zYJJ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="pPYnVoVjCFT4KM67zYJJ-35" target="pPYnVoVjCFT4KM67zYJJ-34">
+        <mxCell id="pPYnVoVjCFT4KM67zYJJ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPYnVoVjCFT4KM67zYJJ-34" target="pPYnVoVjCFT4KM67zYJJ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pPYnVoVjCFT4KM67zYJJ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="pPYnVoVjCFT4KM67zYJJ-35" target="pPYnVoVjCFT4KM67zYJJ-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pPYnVoVjCFT4KM67zYJJ-34" value="DB Login credentials" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="355" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pPYnVoVjCFT4KM67zYJJ-35" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="631.25" y="410" width="30" height="30" as="geometry" />
+          <mxGeometry x="631.25" y="418" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPYnVoVjCFT4KM67zYJJ-37" value="DB Admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="460" width="92.5" height="30" as="geometry" />
+        <mxCell id="pPYnVoVjCFT4KM67zYJJ-37" value="Key Vault" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="448" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pPYnVoVjCFT4KM67zYJJ-43" value="Randomized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="92.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
