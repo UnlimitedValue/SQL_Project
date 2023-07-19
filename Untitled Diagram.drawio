@@ -1,9 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T08:12:53.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="jnoIB9ywTvaLRCkUBgQZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T08:50:58.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RidrM8WVvFpCCbimS9OH" version="21.6.3" type="github">
   <diagram name="Page-1" id="7a9x2GfTm8GXygs5rcgX">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-OJMoSn0-geffr0k2NWG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-OJMoSn0-geffr0k2NWG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-OJMoSn0-geffr0k2NWG-1" target="-OJMoSn0-geffr0k2NWG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="51" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-OJMoSn0-geffr0k2NWG-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-OJMoSn0-geffr0k2NWG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-7" value="be-core" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="61" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-8" value="be-com" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-OJMoSn0-geffr0k2NWG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="310" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-10" value="sbb-be-config&lt;br&gt;m: user creation&lt;br&gt;m:role assignments" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="500" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-16" value="app bui" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-17" value="RBAC&lt;br&gt;rg - read&lt;br&gt;for AD NPA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="51" y="10" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-19" value="be-config" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-OJMoSn0-geffr0k2NWG-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-21" value="separate stage template for post be" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="10" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-OJMoSn0-geffr0k2NWG-22" target="-OJMoSn0-geffr0k2NWG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OJMoSn0-geffr0k2NWG-22" value="azure context is switched at the start" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10" width="140" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
